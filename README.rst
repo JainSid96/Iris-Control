@@ -7,7 +7,7 @@ This repository hosts the Iris Recognition open source Java software code.
 Iris recognition is considered as the most reliable biometric identification system. Majority of commercial biometric systems use patented algorithms.
 
 .. image:: https://github.com/bernii/IrisRecognition/raw/master/screenshot.jpg
-.. image:: https://github.com/bernii/IrisRecognition/raw/master/screenshot.jpg
+.. image:: https://github.com/bernii/IrisRecognition/raw/master/1.jpg
 
 
 
